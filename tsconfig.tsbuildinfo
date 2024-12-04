@@ -1,0 +1,1 @@
+{"root":["./src/index.ts","./src/apis/admin/getquizscores.ts","./src/apis/auth/signin.ts","./src/apis/auth/signup.ts","./src/apis/quiz/createquiz.ts","./src/apis/quiz/getallquiz.ts","./src/apis/quiz/getallquizbyname.ts","./src/apis/user/userans.ts","./src/authentication/auth.ts","./src/routehandler/router.ts","./src/types/express.d.ts","./src/types/user.ts"],"version":"5.7.2"}
